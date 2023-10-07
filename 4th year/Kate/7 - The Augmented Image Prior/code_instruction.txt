@@ -1,0 +1,7 @@
+The Augmented Image Prior
+
+generate_one_image_dataset.ipynb - ноутбук для создания патчированного датасета из одной картинки
+
+one_image_distillation.ipynb - ноутбук с дистилляцией
+
+Посмотреть на экспы в wandb можно здесь: https://wandb.ai/nik-fedorov/one_image_distillation
