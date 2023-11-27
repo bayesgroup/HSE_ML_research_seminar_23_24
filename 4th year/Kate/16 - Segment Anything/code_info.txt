@@ -1,0 +1,7 @@
+Grounding SAM: https://github.com/IDEA-Research/Grounded-Segment-Anything/
+Colab для Grounding SAM: https://colab.research.google.com/github/IDEA-Research/Grounded-Segment-Anything/blob/main/grounded_sam.ipynb
+
+Hugging Face — Matting Anything: https://huggingface.co/spaces/shi-labs/Matting-Anything
+
+SAM-PT (для Video Segmentation): https://github.com/SysCV/sam-pt
+Этот гонял локально, моя 4GB-гпуха справлялась если использовать самый маленький SAM чекпоинт
