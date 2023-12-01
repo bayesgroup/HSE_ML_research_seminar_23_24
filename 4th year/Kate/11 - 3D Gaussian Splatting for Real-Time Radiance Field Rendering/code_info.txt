@@ -1,0 +1,4 @@
+Чтобы настроить на своем компе есть классный видео-гайд https://www.youtube.com/watch?v=UXtuigy_wYc
+Он основан на этом гите https://github.com/jonstephens85/gaussian-splatting-Windows
+
+Вообще в гите авторов прописано, что и как делать, и как фиксить некоторые проблемы, но у меня по их гайду не получалось среду конды сбилдить https://github.com/graphdeco-inria/gaussian-splatting#software-requirements
