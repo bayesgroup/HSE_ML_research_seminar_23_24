@@ -1,0 +1,3 @@
+DragGAN https://github.com/XingangPan/DragGAN
+DragDiffusion https://github.com/Yujun-Shi/DragDiffusion
+GPU сервера https://www.runpod.io/
